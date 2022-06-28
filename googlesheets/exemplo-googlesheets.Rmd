@@ -1,0 +1,24 @@
+---
+title: "Untitled"
+author: "Curso-R"
+date: '2022-06-28'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(googlesheets4)
+library(tidyverse)
+```
+
+
+```{r}
+url_planilha <- "https://docs.google.com/spreadsheets/d/1x9pXr4QAnY1nHcH03Kne7oXlEqSKV8N12nuDMQ7ep0U/edit?usp=sharing"
+googlesheets4::gs4_deauth()
+dados <- read_sheet(url_planilha)
+
+```
+```{r}
+glimpse(dados)
+```
+

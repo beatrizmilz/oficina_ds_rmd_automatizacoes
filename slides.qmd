@@ -1,0 +1,40 @@
+---
+title: "Automatizações"
+subtitle: "Oficina de Data Science na Prática"
+date: "Junho de 2022"
+author: "Curso-R"
+format: 
+  revealjs:
+    width: 1600
+    height: 900
+    self-contained: false
+    incremental: false
+    #logo: "img/logo.png"
+    footer: "Slides feitos pela equipe da [Curso-R](https://curso-r.com), usando [Quarto](https://quarto.org/docs/presentations/revealjs/index.html)."
+    theme: ["custom.scss"]
+    slide-number: c/t
+    show-slide-number: all
+    hash-type: number
+    preview-links: false
+    logo: "img/logo.png"
+  
+editor: visual
+---
+
+## Tópicos de hoje {.center}
+
+- Importando dados do Google Sheets com o pacote googlesheets4.
+
+- Relatório com parâmetros: gerando vários relatórios com purrr.
+
+- Introdução ao GitHub Actions: rodando um script na nuvem.
+
+
+## Importando dados do Google Sheets
+
+
+- Autenticação interativa e não interativa
+
+Leitura complementar: 
+
+  - [Acessando dados do Google Sheets com R](https://beamilz.com/posts/2022-03-08-googlesheets4/pt/)
