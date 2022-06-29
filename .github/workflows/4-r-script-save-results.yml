@@ -3,7 +3,7 @@ on:
     branches: [main]
     
     
-name: 03-run-r-script  
+name: 04-run-r-script-save-results
 
 jobs:
   run-r-script:
