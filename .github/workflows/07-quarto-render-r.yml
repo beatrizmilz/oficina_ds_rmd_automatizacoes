@@ -20,9 +20,10 @@ jobs:
         with:
           use-public-rspm: true
 
-      - name: Install RMarkdown
+      - name: Install rmarkdown
         run: |
-          Rscript install.packages("rmarkdown")
+          install.packages("rmarkdown")
+        shell: Rscript {0}
         
 
       - name: Render Quarto
