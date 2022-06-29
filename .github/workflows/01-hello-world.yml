@@ -1,0 +1,13 @@
+on:
+  workflow_dispatch:
+    branches: [main]
+    
+    
+name: hello-world    
+
+jobs:
+  write-message:
+    runs-un: ubuntu-latest
+    steps:
+      - name: print-message
+        run: echo "Hello R World!"
