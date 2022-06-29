@@ -14,5 +14,5 @@ jobs:
       
       - name: print-message
         run: |
-        Rscript ghactions/03-r-script.R
+          Rscript ghactions/03-r-script.R
         
