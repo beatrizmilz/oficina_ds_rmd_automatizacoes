@@ -7,7 +7,7 @@ name: hello-world
 
 jobs:
   write-message:
-    runs-un: ubuntu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: print-message
         run: echo "Hello R World!"
