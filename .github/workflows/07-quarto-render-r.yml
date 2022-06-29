@@ -22,10 +22,9 @@ jobs:
 
       - name: Install RMarkdown
         run: |
-          install.packages("rmarkdown")
-        shell: Rscript{0}  
+          Rscript install.packages("rmarkdown")
+        
 
-      
       - name: Render Quarto
         run: |
           quarto render ghactions/07-quarto-render-r-example.qmd
