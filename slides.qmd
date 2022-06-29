@@ -23,18 +23,30 @@ editor: visual
 
 ## Tópicos de hoje {.center}
 
-- Importando dados do Google Sheets com o pacote googlesheets4.
+-   Importando dados do Google Sheets com o pacote googlesheets4.
 
-- Relatório com parâmetros: gerando vários relatórios com purrr.
+-   Relatório com parâmetros: gerando vários relatórios com purrr.
 
-- Introdução ao GitHub Actions: rodando um script na nuvem.
+-   Introdução ao GitHub Actions: rodando um script na nuvem.
 
+## Importando dados do Google Sheets 
 
-## Importando dados do Google Sheets
+-   Autenticação interativa e não interativa
 
+Material complementar:
 
-- Autenticação interativa e não interativa
+-   [Acessando dados do Google Sheets com R](https://beamilz.com/posts/2022-03-08-googlesheets4/pt/)
+  
+## Relatório com parâmetros: gerando vários relatórios com purrr.
 
-Leitura complementar: 
+-   [Parâmetros em Rmd](https://rmarkdown.rstudio.com/lesson-6.html)
 
-  - [Acessando dados do Google Sheets com R](https://beamilz.com/posts/2022-03-08-googlesheets4/pt/)
+- [Capítulo 15 - Relatórios parametrizados - RMarkdown: The definitive guide](https://bookdown.org/yihui/rmarkdown/parameterized-reports.html)
+
+- [Capítulo sobre RMarkdown - R for Data Science](https://r4ds.had.co.nz/r-markdown.html)
+
+## Introdução ao GitHub Actions: rodando um script na nuvem.
+
+Material complementar:
+
+-   [Palestra por Beatriz Milz e Julio Trecenti: Introdução ao GitHub Actions](https://beatrizmilz.com/talk/2021-github-actions-gyn/)
