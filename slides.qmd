@@ -29,6 +29,21 @@ editor: visual
 
 -   Introdução ao GitHub Actions: rodando um script na nuvem.
 
+## Introdução ao GitHub Actions: rodando um script na nuvem.
+
+Material complementar:
+
+-   [Palestra por Beatriz Milz e Julio Trecenti: Introdução ao GitHub Actions](https://beatrizmilz.com/talk/2021-github-actions-gyn/)
+
+- <https://github.com/skills/hello-github-actions>
+
+- <https://github.com/actions>
+
+- <https://github.com/quarto-dev/quarto-actions/tree/main/setup>
+
+- <https://github.com/actions/setup-python>
+
+
 ## Importando dados do Google Sheets
 
 -   Autenticação interativa e não interativa
@@ -45,16 +60,4 @@ Material complementar:
 
 -   [Capítulo sobre RMarkdown - R for Data Science](https://r4ds.had.co.nz/r-markdown.html)
 
-## Introdução ao GitHub Actions: rodando um script na nuvem.
 
-Material complementar:
-
--   [Palestra por Beatriz Milz e Julio Trecenti: Introdução ao GitHub Actions](https://beatrizmilz.com/talk/2021-github-actions-gyn/)
-
-https://github.com/skills/hello-github-actions
-
-https://github.com/actions
-
-https://github.com/quarto-dev/quarto-actions/tree/main/setup
-
-https://github.com/actions/setup-python
