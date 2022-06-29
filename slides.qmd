@@ -54,3 +54,7 @@ Material complementar:
 https://github.com/skills/hello-github-actions
 
 https://github.com/actions
+
+https://github.com/quarto-dev/quarto-actions/tree/main/setup
+
+https://github.com/actions/setup-python
